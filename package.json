@@ -1,0 +1,21 @@
+{
+	"name": "elastic-migration-proto",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "tsc && node dist"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"config": "^3.3.6",
+		"date-fns": "^2.28.0",
+		"js-yaml": "^4.1.0"
+	},
+	"devDependencies": {
+		"@types/config": "^3.3.0",
+		"@types/node": "^15.12.2"
+	}
+}
